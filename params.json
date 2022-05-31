@@ -131,7 +131,6 @@
     "dkuProperties": []
   },
   "name": "Git for Notebooks test",
-  "projectStatus": "Sandbox",
   "metrics": {
     "probes": [],
     "engineConfig": {
@@ -187,11 +186,11 @@
     }
   },
   "versionTag": {
-    "versionNumber": 0,
+    "versionNumber": 1,
     "lastModifiedBy": {
       "login": "alexb"
     },
-    "lastModifiedOn": 1654009706167
+    "lastModifiedOn": 1654011084459
   },
   "creationTag": {
     "versionNumber": 0,
@@ -201,7 +200,9 @@
     "lastModifiedOn": 1654007359009
   },
   "shortDesc": "The project *Git for Notebooks test* was created by Alex on May 31st 2022",
-  "tags": [],
+  "tags": [
+    "duplicated"
+  ],
   "customFields": {},
   "checklists": {
     "checklists": [
