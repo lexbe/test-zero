@@ -130,7 +130,7 @@
     },
     "dkuProperties": []
   },
-  "name": "Git for Notebooks test",
+  "name": "Git for Notebooks test (branch1)",
   "metrics": {
     "probes": [],
     "engineConfig": {
@@ -186,11 +186,11 @@
     }
   },
   "versionTag": {
-    "versionNumber": 1,
+    "versionNumber": 2,
     "lastModifiedBy": {
       "login": "alexb"
     },
-    "lastModifiedOn": 1654011084459
+    "lastModifiedOn": 1654011086574
   },
   "creationTag": {
     "versionNumber": 0,
@@ -199,7 +199,7 @@
     },
     "lastModifiedOn": 1654007359009
   },
-  "shortDesc": "The project *Git for Notebooks test* was created by Alex on May 31st 2022",
+  "shortDesc": "The project *Git for Notebooks test* was created by Alex on May 31st 2022\nThe project *GIT_FOR_NOTEBOOKS_TEST_BRANCH1* was copied from *GITFORNOTEBOOKSTEST* by Alex on May 31st 2022",
   "tags": [
     "duplicated"
   ],
