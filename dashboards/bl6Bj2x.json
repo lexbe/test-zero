@@ -1,0 +1,34 @@
+{
+  "pages": [
+    {
+      "id": "lNd8IV6",
+      "grid": {
+        "tiles": []
+      },
+      "showTitle": false
+    }
+  ],
+  "owner": "alexb",
+  "listed": true,
+  "name": "Git for Notebooks test\u0027s default dashboard",
+  "showGrid": true,
+  "versionTag": {
+    "versionNumber": 0,
+    "lastModifiedBy": {
+      "login": "alexb"
+    },
+    "lastModifiedOn": 1654007359018
+  },
+  "creationTag": {
+    "versionNumber": 0,
+    "lastModifiedBy": {
+      "login": "alexb"
+    },
+    "lastModifiedOn": 1654007359018
+  },
+  "tags": [],
+  "customFields": {},
+  "checklists": {
+    "checklists": []
+  }
+}
